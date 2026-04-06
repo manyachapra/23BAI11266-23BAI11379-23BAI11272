@@ -125,7 +125,9 @@ Graphs generated:
 
 ## 👨‍💻 Author
 
-Manya Chapra
+Manya Chapra 
+Prasiddhi Jain
+Vishesh Kumar Jain
 
 ---
 
